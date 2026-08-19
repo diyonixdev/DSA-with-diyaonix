@@ -1,4 +1,4 @@
-//better approachgit status
+//better approach
 #include<bits/stdc++.h>
 using namespace std;
 
